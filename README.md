@@ -1,5 +1,5 @@
 ## Eithel Anderson
-[Linkedin(https://www.linkedin.com/in/eithel-anderson-5759a412b/)]|[Codewars](https://www.codewars.com/users/etelisha)
+[Linkedin](https://www.linkedin.com/in/eithel-anderson-5759a412b/)|[Codewars](https://www.codewars.com/users/etelisha)
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 
