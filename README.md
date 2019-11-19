@@ -78,6 +78,7 @@ HTML, CSS, JavaScript alongside the use of GitHub, JQuery and Bootstrap
 - BA Criminology
 
 #### Emplopyment History and Experience
+---
 
 **Transport For London** (June 2015 -2019)    
 *Reservationist*  
