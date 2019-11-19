@@ -12,7 +12,7 @@ I am eager for continual development within the Tech industry and also looking f
 
 
 ## Skills
-
+---
 - **Fast Learner**
 
 Within a week I was able to learn the basics of JavaScript while at Makers. Through constant learning and building I have been able to accomplish building a Thermostat business model. For Makers Final group project with the basics of JavaScript me and my group completed our Project using the MERN(Mongodb, Express, React/Redux and Node) stack to build a website that allows users to post food they are giving away. Having not being taught these technologies during the course it is a testament of how fast I can adapt and learn new technologies.
@@ -38,24 +38,26 @@ Im a strong believer in sharing knowledge and experience as it is  important, ev
 
 
 #### Projects
+---
 
 | Project | Description | Tech Stack
 | --- | --- |--- |
-| MakersBnB | The project was a clone of Airbnb allowing users to host properties with available dates and also allowing users to book properties. | Ruby, Sinatra, Capybara, Rspec and postgreSQL, HTML,CSS and JavaScript 
-| Acebook  | A Facebook clone | Ruby on rails, Clearance gem, RSpec, Capybara
-| Bank Tech | System which tracks and records users transactions on their account and prints a statement. | Ruby and Rspec
-| Thermostat | Business logic to model thermostat and linking to a dynamic visual interface | JavaScript, jQquery, Jasmine testing framework.
+| [MakersBnB](https://github.com/etelish/makersbnb) | The project was a clone of Airbnb allowing users to host properties with available dates and also allowing users to book properties. | Ruby, Sinatra, Capybara, Rspec and postgreSQL, HTML,CSS and JavaScript
+| [Acebook](https://github.com/etelish/acebook-Team-Meme)  | Group project building a Facebook clone | Ruby on rails, Clearance gem, RSpec, Capybara
+| [Bank Tech Test](https://github.com/etelish/Bank_tech_test) | Week 10 Tech Test challenge was to build a command line banking application according to the spec given.  System which tracks and records users transactions on their account and prints a statement. | Ruby and Rspec
+| [Thermostat](https://github.com/etelish/Thermostat_single) | Business logic to model thermostat and linking to a dynamic visual interface | JavaScript, jQquery, Jasmine testing framework.
 
+### Other
 
+| Tech | Description |
+| --- | --- |
+| SQL databases | PostgreSQL, ActiveRecord |
+| CSS | Bootstrap, CSS |
+| Deployment | Heroku |
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
+---
 
 #### Makers Academy (August 2019 to November 2019)
 
@@ -64,29 +66,28 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
+
+#### Code First Girls (Jun-July 2019)
+
+- Learning the fundamentals of Web development involving
+HTML, CSS, JavaScript alongside the use of GitHub, JQuery and Bootstrap
+- The course enabled me to build a responsive website along with my pairing partner using the above tools. The site we developed [She Travels](https://github.com/etelish/braveNewCoders) was aimed at allowing women within the tech industry, who enjoy traveling to be able to travel in a group and also teach coding skills to young girls via workshops.
+
 #### University of Greenwich (2011 to 2014)
 
 - BA Criminology
-- Grade
-- Other cool stuff
 
-#### Any other qualifications
+#### Emplopyment History and Experience
 
-That in some arguable way make you a better software developer or well-rounded person
+**Transport For London** (June 2015 -2019)    
+*Reservationist*  
+- Delivering an invaluable service to members, assisting them with their local travel requirements.
 
-## Experience
+**Santander** (2013 -2015)   
+*Customer Service Advisor*  
+- Maintained accurate and current customer account data with manual forms processing and digital information updates
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+## Other Responsibilities
+---
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
-
-## Hobbies
-
-- Coding Black Females - Member
-
-
-Any cool stuff that makes you a super part of a software development team
+- [Coding Black Females](https://codingblackfemales.com/) - Member
